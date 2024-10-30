@@ -1,8 +1,6 @@
 /*  your css code here. If applicable */
-#table{
+table,tr,th,td{
 	background-color:yellow;
 	border:1px solid black;
 }
 
-  #table-data{
-            border: 1px solid black;
